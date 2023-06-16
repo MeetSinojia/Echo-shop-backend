@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "npm": "npm i"
+    "build": "npm i"
   },
   "keywords": [],
   "author": "",
