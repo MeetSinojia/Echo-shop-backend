@@ -1,0 +1,102 @@
+[
+  {
+    "Origin City": "Mumbai",
+    "Destination City": "Delhi",
+    "Average Prediction": 2
+  },
+  {
+    "Origin City": "Delhi",
+    "Destination City": "Ahmedabad",
+    "Average Prediction": 6
+  },
+  {
+    "Origin City": "Bangalore (Bengaluru)",
+    "Destination City": "Kolkata",
+    "Average Prediction": 4
+  },
+  {
+    "Origin City": "Pune",
+    "Destination City": "Patna",
+    "Average Prediction": 3
+  },
+  {
+    "Origin City": "Patna",
+    "Destination City": "Ahmedabad",
+    "Average Prediction": 4
+  },
+  {
+    "Origin City": "Thane",
+    "Destination City": "Ahmedabad",
+    "Average Prediction": 5
+  },
+  {
+    "Origin City": "Hyderabad",
+    "Destination City": "Varanasi",
+    "Average Prediction": 3
+  },
+  {
+    "Origin City": "Patna",
+    "Destination City": "Jaipur",
+    "Average Prediction": 4
+  },
+  {
+    "Origin City": "Jaipur",
+    "Destination City": "Lucknow",
+    "Average Prediction": 3
+  },
+  {
+    "Origin City": "Kanpur",
+    "Destination City": "Nashik",
+    "Average Prediction": 4
+  },
+  {
+    "Origin City": "Ahmedabad",
+    "Destination City": "Visakhapatnam",
+    "Average Prediction": 4
+  },
+  {
+    "Origin City": "Vadodara",
+    "Destination City": "Bhopal",
+    "Average Prediction": 2
+  },
+  {
+    "Origin City": "Ghaziabad",
+    "Destination City": "Srinagar",
+    "Average Prediction": 5
+  },
+  {
+    "Origin City": "Agra",
+    "Destination City": "Surat",
+    "Average Prediction": 3
+  },
+  {
+    "Origin City": "Nashik",
+    "Destination City": "Varanasi",
+    "Average Prediction": 3
+  },
+  {
+    "Origin City": "Lucknow",
+    "Destination City": "Indore",
+    "Average Prediction": 2
+  },
+  {
+    "Origin City": "Surat",
+    "Destination City": "Visakhapatnam",
+    "Average Prediction": 4
+  },
+  {
+    "Origin City": "Visakhapatnam",
+    "Destination City": "Rajkot",
+    "Average Prediction": 5
+  },
+  {
+    "Origin City": "Bhopal",
+    "Destination City": "Ludhiana",
+    "Average Prediction": 3
+  },
+  {
+    "Origin City": "Ludhiana",
+    "Destination City": "Thane",
+    "Average Prediction": 4
+  }
+]
